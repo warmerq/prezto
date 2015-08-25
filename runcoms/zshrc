@@ -1,3 +1,4 @@
+# -*-sh-*-
 #
 # Executes commands at the start of an interactive session.
 #
@@ -13,3 +14,4 @@ fi
 # Customize to your needs...
 
 export DEFAULT_USER=`whoami`
+alias et=emacsclient
