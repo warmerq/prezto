@@ -15,3 +15,7 @@ fi
 
 export DEFAULT_USER=`whoami`
 alias et=emacsclient
+
+# nvm
+export NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/dist
+source ~/.nvm/nvm.sh
