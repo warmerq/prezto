@@ -30,4 +30,4 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
 --userconfig=$HOME/.cnpmrc"
 
 # for docker, using docker toolbox
-eval $(docker-machine env default)
+# eval $(docker-machine env default)
